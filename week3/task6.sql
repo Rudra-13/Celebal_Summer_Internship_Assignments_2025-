@@ -1,0 +1,2 @@
+-- in here mod is modulus % which takes remainder now in here we need even ids therfore modulus with 2 is eqal to 0 is must,distinct for non duplicates to print
+ SELECT DISTINCT CITY FROM STATION WHERE MOD(ID, 2) = 0;
