@@ -1,0 +1,9 @@
+{
+  "name": "LS_ADLSGen2_CustomerData",
+  "type": "LinkedService",
+  "typeProperties": {
+    "url": "https://dummystorage.dfs.core.windows.net/",
+    "accountKey": "XXXX-FAKE-KEY-XXXX",
+    "linkedServiceName": "adls_simulation"
+  }
+}
